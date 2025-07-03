@@ -34,7 +34,6 @@ The algorithm enhances traditional edge detection by applying **Sobel operators 
 6. **Compute Gradient Norm**  
 7. **Thresholding & Save Output**
 
-![Pipeline](./08672964-98ba-40cb-b4a1-6ed1d3842374.png)
 
 ---
 
@@ -44,7 +43,7 @@ Comparison between an original MRI brain image and the processed output:
 
 <div align="center">
 
-<img src="./e5b1f72f-3c74-43dd-8390-44f3342d65d8.png" width="700"/>
+<img src="./Sample_sResults.png" width="700"/>
 
 <br/>
 <sub><i>Left: Original Image — Right: Output Image with 8-Direction Sobel</i></sub>
