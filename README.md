@@ -43,7 +43,7 @@ Comparison between an original MRI brain image and the processed output:
 
 <div align="center">
 
-<img src="./Sample_sResults.png" width="700"/>
+<img src="./Sample_Results.png" width="700"/>
 
 <br/>
 <sub><i>Left: Original Image — Right: Output Image with 8-Direction Sobel</i></sub>
